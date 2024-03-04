@@ -15,3 +15,13 @@ src: url(/fonts/Fraunces[SOFT,WONK,opsz,wght].ttf) format('truetype')
     src: url(/fonts/Fraunces-Italic[SOFT,WONK,opsz,wght].ttf) format('truetype')
 }
 
+// body font styling vars
+$body-font-size: 120%;
+$body-font-weight: 350;
+$body-italic-weight: 100;
+
+// display font styling vars
+$display-font: $font;
+$display-weight: 900;
+$display-spacing: 0.15em;
+$display-title-size: 4rem;
